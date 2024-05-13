@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_grad"
+    tools:context=".HealthHelperActivity">
+
+    <TextView
+        android:id="@+id/bmitext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="50dp"
+        android:background="#FFFFFF"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="25dp"
+        android:hint="@string/bmihint"
+        android:textSize="25dp">
+    </TextView>
+
+    <Button
+        android:id="@+id/report"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_alignStart="@+id/bmitext"
+        android:layout_marginTop="30dp"
+
+        android:layout_toStartOf="@+id/align"
+        android:backgroundTint="@color/colorGradientEnd"
+        android:text="@string/create_rep"
+        android:textSize="15dp"></Button>
+
+    <Button
+        android:id="@+id/bmi"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_alignEnd="@+id/bmitext"
+        android:layout_marginTop="30dp"
+        android:layout_toEndOf="@+id/align"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:text="@string/measure_bmi"
+        android:textSize="15dp">
+
+    </Button>
+
+    <TextView
+        android:id="@+id/align"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:text=""
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

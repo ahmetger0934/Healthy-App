@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_grad"
+    tools:context=".EditPostActivity">
+
+
+    <EditText
+        android:id="@+id/editTextCaption"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/caption"
+        android:background="@drawable/lvndr_brdr"
+        android:backgroundTint="#FFF"/>
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_marginLeft="25dp"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:text="@string/submit"
+        app:cornerRadius="20dp" />
+
+
+</LinearLayout>
+

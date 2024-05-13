@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#F5F5F5</color>
+    <color name="primary_text">#333333</color>
+    <color name="secondary_text">#666666</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="red_200">#FFEF9A9A</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#F57C00</color>
+    <color name="purple_700">#010407</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBackground">#e5ebfd</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#f0b41d</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorButtonBackground">#FF4081</color>
+    <color name="colorButtonBackgroundDisabled">#FFC5C5C5</color>
+    <color name="colorButtonBackgroundPressed">#FFC5C5C5</color>
+    <color name="colorButtonBackgroundFocused">#FFC5C5C5</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorSurface">#6200EE</color>
+    <color name="colorBackground2">#E0E0E0</color>
+    <color name="colorButtonBackground2">#03DAC5</color>
+    <color name="colorButtonTextColor">#000000</color>
+    <color name="colorGradientStart">#FF5722</color>
+    <color name="colorGradientEnd">#FF9800</color>
+    <color name="colorPrimaryDark">#FFC107</color>
+        <color name="lavender">#8692f7</color>
+
+
+</resources>

@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Healthy</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="welcome_to_our_app">Welcome to Our App!</string>
+    <string name="open_profile">Open Profile</string>
+    <string name="we_re_glad_you_re_here">We\'re glad you\'re here!</string>
+    <string name="display_name">Display Name</string>
+    <string name="new_password">New Password</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="password1">Password</string>
+    <string name="start_voice_search">Start voice search</string>
+    <string name="google_sign_in" >Google Sing In</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="assistant">Assistant:</string>
+    <string name="user">User:</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="send">Send</string>
+    <string name="Email"> Email</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="Send">Send</string>
+    <string name="start_chat">chatStart</string>
+    <string name="search_button">search</string>
+    <string name="search_users">seacrhUser</string>
+    <string name="search2">Search</string>
+    <string name="search">Search</string>
+    <string name="follow">Follow</string>
+    <string name="send_message">Send Message</string>
+    <string name="follow1">Follow</string>
+    <string name="bio_goes_here">Bio goes here...</string>
+    <string name="username">Username</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="profile_photo">Profile_photo</string>
+    <string name="search1">Search</string>
+    <string name="message_text">Message Text</string>
+    <string name="_12_00_pm" translatable="false">12:00 PM</string>
+    <string name="post">POST</string>
+    <string name="description">Description</string>
+    <string name="send_message1">Send</string>
+    <string name="recipe_here">Write your recipe here..</string>
+    <string name="add_a_caption">Add a caption...</string>
+    <string name="add_a_caption1">Add a caption...</string>
+    <string name="post1" translatable="false">POST</string>
+    <string name="recipe_here1">Recipe here</string>
+    <string name="meatball_recipe">Meatball Recipe:</string>
+    <string name="shares">share</string>
+    <string name="comments">comment</string>
+    <string name="likes">likes</string>
+    <string name="fab">fab</string>
+    <string name="menu" >menu</string>
+    <string name="hamburger_recipe">Hamburger Recipe:</string>
+    <string name="hotdog_recipe">Hotdog Recipe:</string>
+    <string name="pizza_recipe">Pizza Recipe:</string>
+    <string name="salad_recipe">Salad Recipe:</string>
+    <string name="soup_recipe">Soup Recipe:</string>
+    <string name="failed">Failed to load post.</string>
+    <string name="capupdate">Caption Updated</string>
+    <string name="failedupdatecap">Failed to update caption.</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="selectimage">Please select an image.</string>
+    <string name="noimage">No image selected.</string>
+    <string name="somethingwrong">Somethig went wrong!</string>
+    <string name="impossweight">This bmi is impossible.</string>
+    <string name="underweight">You are underweight. You might want to eat more frequently. Slowly begin to eat 5 to 6 smaller meals during the day. Choosing food with lots of nutrients. Set up a routine to eat and drink things you like and that have a lot of nutrients as well as calories.</string>
+    <string name="normalweight">Your weight to height ratio is optimal you should try to maintain your form by eating in a moderate amount everyday.</string>
+    <string name="overweight">You are overweight. While it isnt very severe right now we suggest you start exercising and eat less.</string>
+    <string name="obeseweight">You are obese. Your bmi shows your weight might be a danger to your being, we suggest seeing a dietician to help you.</string>
+    <string name="extraobese">You are extremely obese. Your life might actually be in danger, please seek medical attention from a dietician.</string>
+    <string name="loginsucc">Login successful</string>
+    <string name="authenfail">Failed to authenticate.</string>
+    <string name="welcome">Welcome,</string>
+    <string name="userdatafail">Failed to read user data:</string>
+    <string name="meatballs">Meatballs</string>
+    <string name="soup">Soup</string>
+    <string name="pizza">Pizza</string>
+    <string name="hotdog">Hotdog</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="salad">Salad</string>
+    <string name="bread">Bread</string>
+    <string name="profileupdatesucc">Profile updated successfully.</string>
+    <string name="emailupdatefail">Failed to update Email.</string>
+    <string name="profileupdatefail">Failed to update profile.</string>
+    <string name="passwordupdatefail">Failed to update password.</string>
+    <string name="uploadfail">Upload failed:</string>
+    <string name="uploadsucc">Upload successful.</string>
+    <string name="urlfail">Failed to get download URL:</string>
+    <string name="validemailpass">Please enter a valid email and password.</string>
+    <string name="errordocs">Error getting documents.</string>
+    <string name="enteremail">Please enter a valid email adress.</string>
+    <string name="enterpassword">Please enter a password.</string>
+    <string name="profilecreated">Your profile is successfully created.</string>
+    <string name="signupfail">Sign up failed. Please try again.</string>
+    <string name="usernotexist">User does not exist.</string>
+    <string name="fetchdatafail">Failed to fetch user data. Please try again.</string>
+    <string name="followupdatefail">Failed to update follow status.</string>
+    <string name="follownow">You are now following this user.</string>
+    <string name="unfollownow">You have unfollowed this user.</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="fetchuserfail">Failed to fetch username. Please try again.</string>
+    <string name="selffollow">You cannot follow yourself.</string>
+    <string name="loading">Loading...</string>
+    <string name="imagefail">Failed to load image:</string>
+    <string name="height">Height(M):</string>
+    <string name="bmi" translatable="false">BMI:</string>
+    <string name="weight">Weight(KG):</string>
+    <string name="calculate">Calculate</string>
+    <string name="caption">Caption</string>
+    <string name="submit">Submit</string>
+    <string name="bmihint">Press the red button to create a health report, if you haven\'t already measure your BMI first</string>
+    <string name="language">"Language: "</string>
+    <string name="measure_bmi">Measure your BMI</string>
+    <string name="create_rep">create a health report</string>
+    <string name="dontaccount">Don\'t have an account?</string>
+    <string name="name">Name</string>
+    <string name="bmi_key" translatable="false">bmi_key</string>
+    <string name="chng_passwrd">Password Updated Successfully.</string>
+    <string name="postdlt">Post deleted</string>
+    res/values/strings.xml (default, usually in English)
+    res/values-es/strings.xml (Spanish)
+    res/values-fr/strings.xml (French)
+    res/values-de/strings.xml (German)
+    res/values-ja/strings.xml (Japanese)
+    res/values-ko/strings.xml (Korean)
+    res/values-zh-rCN/strings.xml (Simplified Chinese)
+    res/values-zh-rTW/strings.xml (Traditional Chinese)
+    res/values-tr/strings.xml (Turkish)
+</resources>
